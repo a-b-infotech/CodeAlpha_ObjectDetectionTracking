@@ -1,0 +1,5 @@
+*.mp4
+*.avi
+output_tracked.mp4
+yolov8n.pt
+__pycache__/
